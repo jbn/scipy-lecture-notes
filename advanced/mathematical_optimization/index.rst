@@ -238,7 +238,7 @@ gradient, that is the direction of the *steepest descent*.
 
 .. list-table:: **Fixed step gradient descent**
 
- * - **A well-conditionned quadratic function.**
+ * - **A well-conditioned quadratic function.**
 
    - |gradient_quad_cond|
  
